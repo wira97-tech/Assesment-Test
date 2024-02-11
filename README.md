@@ -1,3 +1,6 @@
+I created this website full of challenges. because initially I had never used the nuxtjs framework before. At the beginning I had to watch tutorials from experts on YouTube so I could understand the structure and syntax of NuxtJS. I initially had difficulty understanding the routing and folder structure used to create this website. But I never gave up and continued to learn so I could at least slic the website and make it a little more dynamic.
+![image](https://github.com/wira97-tech/Assesment-Test/assets/79839518/73830eb2-2770-4e14-8c5e-15f3d35cead9)
+<h1>How I start the web</h1>
 # Nuxt 3 Minimal Starter
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
